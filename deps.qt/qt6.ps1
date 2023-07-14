@@ -12,6 +12,7 @@ $QtComponents = @(
     'qtshadertools'
     'qtmultimedia'
     'qtsvg'
+    'qtwebsockets'
 )
 
 $Directory = 'qt6'
