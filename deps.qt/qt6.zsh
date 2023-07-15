@@ -119,7 +119,7 @@ config() {
     -DFEATURE_libjpeg:BOOL=ON
     -DFEATURE_libpng:BOOL=ON
     -DFEATURE_macdeployqt:BOOL=OFF
-    -DFEATURE_openssl:BOOL=OFF
+    -DFEATURE_openssl:BOOL=ON
     -DFEATURE_pcre2:BOOL=ON
     -DFEATURE_pdf:BOOL=OFF
     -DFEATURE_printdialog:BOOL=OFF
